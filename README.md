@@ -1,7 +1,7 @@
 
-# AutoTutorialKit
+# AppTutorialPackage
 
-AutoTutorialKit is a lightweight iOS library to create **interactive onboarding tutorials** with automatic UI highlighting and smooth animations.
+It is a iOS library to create **interactive onboarding tutorials** with automatic UI highlighting and smooth animations.
 
 ---
 ## Features
@@ -16,8 +16,11 @@ AutoTutorialKit is a lightweight iOS library to create **interactive onboarding 
 ---
 
 ## Installation
+ 
 
-**File → Add Package Dependencies → Add local → Add Package**
+1 . Download the package
+
+2 . **File → Add Package Dependencies → Add local → Add Package** 
 
 ---
 
