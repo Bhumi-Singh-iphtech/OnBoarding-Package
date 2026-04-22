@@ -1,5 +1,5 @@
 
-# AppTutorialPackage
+# App Tutorial Package
 
 It is a iOS library to create **interactive onboarding tutorials** with automatic UI highlighting and smooth animations.
 
